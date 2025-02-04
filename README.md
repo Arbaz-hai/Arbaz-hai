@@ -33,7 +33,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arbaz-hai&show_icons=true&locale=en" alt="arbaz-hai" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arbaz-hai&" alt="arbaz-hai" /></p>
-!--
-**Arbaz-hai/Arbaz-hai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
