@@ -45,25 +45,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=arbaz-hai&theme=algolia&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arbaz-hai&show_icons=true&locale=en&layout=compact&theme=tokyonight" height="150"/>
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arbaz-hai&show_icons=true&locale=en&theme=tokyonight" height="150"/>
-</p>
-
----
-
 ## 🔥 Featured Projects
 
 ### 🏜️ **Off-Road Semantic Segmentation (IoU 0.8943)**
