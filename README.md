@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arbaz </h1>
+<h1 align="center">Hi, I'm Arbaz </h1>
 <h3 align="center">AI/ML Engineer • Researcher • Open Source Contributor</h3>
 
 <p align="center">
@@ -27,7 +27,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/arbaz-sheikh-712408339" target="_blank">
