@@ -116,7 +116,7 @@
 - 💡 Innovation Ambassador — Ministry of Education’s Innovation Cell
 - 📄 2 Research Papers Accepted / In Press
 - 👨‍💻 LeetCode Top 12%
-- 🏅 500+ LeetCode problems solved
+- 🏅 550+ LeetCode problems solved
 - 🎤 3× Speaker
 - 👨‍🏫 3× Hackathon Mentor
 - 🏁 10× Hackathon Finalist
