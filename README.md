@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-- 🎓 B.Tech Computer Science student at **GGSIPU** with a **CGPA of 8.9/10**
+- 🎓 B.Tech Computer Science student at **GGSIPU** with a **CGPA of 9.03/10**
 - 🤖 Working as an **AI/ML Graduate Trainee** at **VALAY**
 - 📄 Author of **2 research papers (accepted / in press)**
 - 🔬 Interested in **Computer Vision, Semantic Segmentation, LLMs, and RAG systems**
