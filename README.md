@@ -15,7 +15,7 @@
 
 - 🎓 B.Tech Computer Science student at **GGSIPU** with a **CGPA of 9.03/10**
 - 🤖 Working as an **AI/ML Graduate Trainee** at **VALAY**
-- 📄 Author of **2 research papers (accepted / in press)**
+- 📄 Author of **research papers (Published)**
 - 🔬 Interested in **Computer Vision, Semantic Segmentation, LLMs, and RAG systems**
 - 🏆 Winner — **IIT Delhi Hackathon 2025**
 - 💡 **Innovation Ambassador** at the **Ministry of Education’s Innovation Cell**
