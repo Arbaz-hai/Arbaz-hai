@@ -89,7 +89,7 @@
 - Used NER and relation extraction to map trafficking routes
 - Created a domain-specific annotated dataset for fine-tuning transformer models
 
-### 💳 Government Fraud Detection System
+###  Government Fraud Detection System
 **Tech:** Python, Scikit-Learn, Machine Learning  
 - Implemented Random Forest and Isolation Forest for anomaly detection
 - Identified ghost beneficiaries using anomaly scoring
