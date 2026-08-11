@@ -134,7 +134,7 @@
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arbaz-hai&theme=react-dark" alt="arbaz-hai's Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arbaz-hai&theme=react-dark&year=2026" alt="arbaz-hai's Activity Graph" width="100%" />
 </p>
 
 ---
