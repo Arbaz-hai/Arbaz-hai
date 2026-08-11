@@ -70,22 +70,44 @@ def render_chart(monthly: dict, out_path: str):
     months = list(monthly.keys())
     counts = list(monthly.values())
 
-    fig, ax = plt.subplots(figsize=(10, 4), dpi=150)
-    bars = ax.bar(months, counts, color="#2f81f7")
+    WHITE = "#ffffff"
 
-    ax.set_title("Monthly Contribution Activity", fontsize=14, weight="bold")
-    ax.set_ylabel("Contributions")
+    fig, ax = plt.subplots(figsize=(10, 4), dpi=150)
+    fig.patch.set_alpha(0.0)
+    ax.set_facecolor("none")
+
+    ax.plot(
+        months,
+        counts,
+        color=WHITE,
+        marker="o",
+        markersize=5,
+        linewidth=2,
+    )
+    ax.fill_between(months, counts, color=WHITE, alpha=0.08)
+
+    ax.set_title("Monthly Contribution Activity", fontsize=14, weight="bold", color=WHITE)
+    ax.set_ylabel("Contributions", color=WHITE)
+
+    for spine in ax.spines.values():
+        spine.set_color(WHITE)
     ax.spines["top"].set_visible(False)
     ax.spines["right"].set_visible(False)
 
-    for bar, count in zip(bars, counts):
+    ax.tick_params(colors=WHITE)
+    ax.xaxis.label.set_color(WHITE)
+    ax.yaxis.label.set_color(WHITE)
+    ax.grid(axis="y", color=WHITE, alpha=0.15, linewidth=0.5)
+
+    for x, count in zip(months, counts):
         ax.annotate(
             str(count),
-            xy=(bar.get_x() + bar.get_width() / 2, bar.get_height()),
-            xytext=(0, 3),
+            xy=(x, count),
+            xytext=(0, 8),
             textcoords="offset points",
             ha="center",
             fontsize=8,
+            color=WHITE,
         )
 
     fig.tight_layout()
