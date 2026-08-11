@@ -137,7 +137,6 @@
   <img src="./monthly-activity.png" alt="arbaz-hai's Monthly Activity Chart" width="100%" />
 </p>
 
-<p align="center"><sub>Auto-updated daily via GitHub Actions — see <code>.github/workflows/monthly-activity.yml</code></sub></p>
 
 ---
 
