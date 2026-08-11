@@ -131,6 +131,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arbaz-hai&theme=default" alt="GitHub Streak" />
 </p>
 
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arbaz-hai&theme=react-dark" alt="arbaz-hai's Activity Graph" width="100%" />
+</p>
+
 ---
 
 ## ✨ Fun Fact
