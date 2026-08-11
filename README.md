@@ -131,11 +131,13 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arbaz-hai&theme=default" alt="GitHub Streak" />
 </p>
 
-## 📈 Activity Graph
+## 📈 Monthly Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arbaz-hai&theme=react-dark&year=2026" alt="arbaz-hai's Activity Graph" width="100%" />
+  <img src="./monthly-activity.png" alt="arbaz-hai's Monthly Activity Chart" width="100%" />
 </p>
+
+<p align="center"><sub>Auto-updated daily via GitHub Actions — see <code>.github/workflows/monthly-activity.yml</code></sub></p>
 
 ---
 
