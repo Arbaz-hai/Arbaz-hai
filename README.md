@@ -172,11 +172,6 @@ Reviewing graph convolutional network methods, node-classification approaches, k
 
 ---
 
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arbaz-hai&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph"/>
-</p>
 
 ### 📅 Monthly Activity
 
