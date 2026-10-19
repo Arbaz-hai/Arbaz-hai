@@ -32,7 +32,7 @@
 - 🏆 **Winner — IIT Delhi Hackathon 2025**.
 - 💡 **Innovation Ambassador** at the Ministry of Education's Innovation Cell.
 - 🌍 Founder of **Dev Hive Community**, connecting **2,000+ members across 5+ countries**.
-- 👨‍💻 Solved **550+ LeetCode problems**, ranking in the **Top 12%**.
+- 👨‍💻 Solved **600+ LeetCode problems**, ranking in the **Top 12%**.
 - 🤝 Interested in collaborating on AI, ML, NLP, Computer Vision, and LLM applications.
 
 📫 **Email:** [arbazsince2004@gmail.com](mailto:arbazsince2004@gmail.com)
