@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Arbaz Sheikh
+# 👋 Hi, I'm Arbaz 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=180&section=header&text=Arbaz%20Sheikh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" alt="Arbaz Sheikh profile banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=180&section=header&text=Arbaz&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" alt="Arbaz Sheikh profile banner"/>
 </p>
 
 <h3 align="center">AI/ML Engineer | Computer Vision Researcher | Open Source Contributor</h3>
