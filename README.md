@@ -146,7 +146,7 @@ Reviewing graph convolutional network methods, node-classification approaches, k
 <p>
   <img src="https://img.shields.io/badge/🏆_IIT_Delhi-Hackathon_Winner_2025-FFD700?style=flat-square" alt="IIT Delhi Hackathon winner"/>
   <img src="https://img.shields.io/badge/💡_Innovation_Ambassador-MoE-2563EB?style=flat-square" alt="Innovation Ambassador"/>
-  <img src="https://img.shields.io/badge/📄_Research-2_Papers_Accepted_or_In_Press-0F766E?style=flat-square" alt="Research papers"/>
+  <img src="https://img.shields.io/badge/📄_Research-2_Papers_Published-0F766E?style=flat-square" alt="Research papers"/>
 </p>
 
 - 🥇 Winner — IIT Delhi Hackathon 2025.
