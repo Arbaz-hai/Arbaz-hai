@@ -135,9 +135,9 @@
 
 Investigating the relationship between segmentation performance, inference speed, model complexity, and energy efficiency for off-road navigation.
 
-### 2. A Comprehensive Review of Graph Convolutional Networks for Node Classification: Methods, Challenges, and Future Directions
+### 2. Comparative Analysis of Transformer Models for Prompt Injection Detection in Autonomous Large Language Model Agents
 
-Reviewing graph convolutional network methods, node-classification approaches, key challenges, and future research directions.
+Reviewing Comparative Analysis of Transformer Models for Prompt Injection Detection in Autonomous Large Language Model Agents
 
 ---
 
@@ -150,7 +150,7 @@ Reviewing graph convolutional network methods, node-classification approaches, k
 </p>
 
 - 🥇 Winner — IIT Delhi Hackathon 2025.
-- 📚 Two research papers accepted or in press, as reported in my research profile.
+- 📚 Two research papers Published, as reported in my research profile.
 - 👨‍💻 LeetCode Top 12% with 550+ problems solved.
 - 🎤 Three-time speaker.
 - 👨‍🏫 Three-time hackathon mentor.
