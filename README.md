@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=180&section=header&text=Arbaz&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" alt="Arbaz Sheikh profile banner"/>
 </p>
 
-<h3 align="center">AI/ML Engineer | Computer Vision Researcher | Open Source Contributor</h3>
+<h3 align="center">AI/ML Engineer | Computer Vision Researcher | Open Source Contributor | Hackathon Mentor</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+AI-powered+solutions;Exploring+Computer+Vision+%26+LLMs;Researching+Machine+Learning;Growing+Developer+Communities" alt="Animated introduction"/>
